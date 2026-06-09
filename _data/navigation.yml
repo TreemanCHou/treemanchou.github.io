@@ -1,0 +1,7 @@
+main:
+  - title: "Home (主页)"
+    url: /
+  - title: "About (关于)"
+    url: /about/
+  - title: "Posts (文章)"
+    url: /posts/
